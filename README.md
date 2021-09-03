@@ -1,4 +1,4 @@
 # Bots
-My experimental bots for games or tests
+My experimental bots for games or testing purposes
 # Language used: python
 # 
